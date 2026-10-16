@@ -36,7 +36,7 @@ public class Main {
             } 
  
         } catch (SQLException e) {
-            System.out.println("資料庫連線失敗！!");
+            System.out.println("資料庫連線失敗！");
             e.printStackTrace();
         }
    }
